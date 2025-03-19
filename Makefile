@@ -5,5 +5,5 @@ install-argocd:
 		--repo https://argoproj.github.io/argo-helm \
 		--create-namespace \
 		--namespace argocd \
-		--values apps/sikademo/_system/argocd/argocd.values.yaml
+		--values apps/sikademo/_system/argocd/argocd.values.yaml \
 		--wait
