@@ -1,5 +1,7 @@
 # cloud-native-bratislava-argocd
 
+[sika.link/cnb-argocd](https://sika.link/cnb-argocd)
+
 ## Ondrej Sika
 
 - <ondrej@sika.io>
