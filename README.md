@@ -1,3 +1,5 @@
+[Ondrej Sika (sika.io)](https://sika.io) | <ondrej@sika.io> | [__Skoleni Kubernetes__](https://ondrej-sika.cz/skoleni/kubernetes/), [__Skoleni ArgoCD__](https://ondrej-sika.cz/skoleni/argocd/) 🚀💻
+
 # cloud-native-bratislava-argocd
 
 [sika.link/cnb-argocd](https://sika.link/cnb-argocd)
